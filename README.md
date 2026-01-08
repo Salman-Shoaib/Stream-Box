@@ -58,7 +58,7 @@ STREAM BOX/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Salman-Shoaib/StreamBox.git
+git clone https://github.com/Salman-Shoaib/Stream-Box.git
 
 2. Open the project folder
 
