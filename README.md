@@ -71,9 +71,9 @@ git clone https://github.com/Salman-Shoaib/StreamBox.git
 
 ## 📸 Demo / Preview
 
-🎥 A demo video is included to showcase the UI and layout of the website.
+🎥 A demo Photo is included to showcase the UI and layout of the website.
 
-<img width="380" height="120" alt="Image" src="https://github.com/user-attachments/assets/7c63e343-4769-47c1-8141-1c15f358da22" />
+<img width="450" height="200" alt="Image" src="https://github.com/user-attachments/assets/7c63e343-4769-47c1-8141-1c15f358da22" />
 ---
 
 ## ⚠️ Copyright Disclaimer
